@@ -1,0 +1,8 @@
+Temperature:0.1
+Response:**AI learns patterns from vast amounts of data to make predictions, solve problems, or create content.** 
+
+In short: **It learns from examples, like a human, but uses math.**
+****************************************************************************************************
+Temperature:0.2
+Response:AI learns patterns from vast amounts of data to make predictions, decisions, or create new content.
+****************************************************************************************************
